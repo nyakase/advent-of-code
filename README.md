@@ -8,3 +8,6 @@ Also, the solutions in this repository are organized by the date the puzzles wer
 For 2020, day 3, I found part 1 in a repo but it is self-described as unfinished, even though I have two stars for that day. For day 4 the same repo contains part 1 and 2, but those too appear to be broken, and I have no stars for that day. But my teacher has one, so that's probably how I saw part 2. I included those solutions as `2020/day3/legacypart1.js`, `2020/day4/legacypart1.js`, and `2020/day4/legacypart2.js`.
 
 I'm not sure if I will or can come back to 2020 day 3 seeing as though I already have the stars, but I'll probably get to day 4 at some point.
+
+## Trivia
+In 2024, I wrote the solutions over SSH in Termux on my phone up until day 2 part 2. In it I needed to do a small refactor and indent to the point of it wrapping annoyingly on my phone. I am tempted to jokingly call it a "feature" ("don't write overindented code"), but what I actually did was just use Tailscale SSH over Web.
